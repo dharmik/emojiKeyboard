@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container">
+		<TextField id="tf"></TextField>
+		<Button id="ok"></Button>
+		
+		<ScrollableView id="scrollEmoji"></ScrollableView>
+	</Window>
+</Alloy>

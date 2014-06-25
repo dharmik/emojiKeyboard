@@ -1,0 +1,24 @@
+".container": {
+	backgroundColor:"white"
+},
+"TextField": {
+	width: '90%',
+	height: '30dp',
+	color: "#000",
+	hintText : 'Emoji',
+	top : '30%',
+	keyboardType : Ti.UI.KEYBOARD,
+	returnKeyType : Ti.UI.RETURNKEY_DEFAULT,
+	borderStyle : Ti.UI.INPUT_BORDERSTYLE_ROUNDED
+},
+"Button": {
+	width: '90%',
+	height: '30dp',
+	color: "#000",
+	title : 'OK',
+	top : '45%'
+},
+"#scrollEmoji" :{
+	bottom : '-40%',
+	height : '40%'
+}
